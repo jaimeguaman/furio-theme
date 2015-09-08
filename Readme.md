@@ -1,4 +1,4 @@
-#Furio zsh theme
+#Furio (horny) zsh theme
 
 ![in action](https://raw.githubusercontent.com/hectorpalmatellez/furio-theme/master/zsh-furio-2.gif)
 
